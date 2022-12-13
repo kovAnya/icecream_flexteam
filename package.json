@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "http://suprunyuk-a.github.io/flexteam/",
+  "homepage": "http://kovAnya.github.io/icecream_flexteam/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /flexteam/"
+    "build": "parcel build src/*.html --public-url /icecream_flexteam/"
   },
   "repository": {
     "type": "git",
